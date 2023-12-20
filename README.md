@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=2CFF00&size=40&width=320&height=80&lines=HI,+SUNDARRAJAN+S"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&center=true&color=2CFF00&size=40&width=320&height=80&lines=HI+,+SUNDARRAJAN+S"/>
 </p>
 
 ## 🌐 Socials:
