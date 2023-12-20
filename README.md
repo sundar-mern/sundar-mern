@@ -25,7 +25,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sundar-mern&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sundar-mern&icon=5&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sundar-mern&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <!---
 sundar-mern/sundar-mern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
